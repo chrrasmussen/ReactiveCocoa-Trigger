@@ -12,6 +12,7 @@
 		6907F2D21DBFDD970051295D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6907F2D01DBFDD970051295D /* Main.storyboard */; };
 		6907F2D41DBFDD970051295D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6907F2D31DBFDD970051295D /* Assets.xcassets */; };
 		6907F2D71DBFDD970051295D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6907F2D51DBFDD970051295D /* LaunchScreen.storyboard */; };
+		6907F2DF1DBFDF630051295D /* Test.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6907F2DE1DBFDF630051295D /* Test.txt */; };
 		B33B75508DEABFFA0BB59441 /* Pods_ReactiveCocoa_Trigger.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17CF2A2D16CC4EFC8A0322E2 /* Pods_ReactiveCocoa_Trigger.framework */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +25,7 @@
 		6907F2D31DBFDD970051295D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6907F2D61DBFDD970051295D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6907F2D81DBFDD970051295D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6907F2DE1DBFDF630051295D /* Test.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Test.txt; sourceTree = "<group>"; };
 		B86DE50A81959BB71C7E5111 /* Pods-ReactiveCocoa-Trigger.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactiveCocoa-Trigger.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReactiveCocoa-Trigger/Pods-ReactiveCocoa-Trigger.release.xcconfig"; sourceTree = "<group>"; };
 		FE335E38AC98BFA04683C847 /* Pods-ReactiveCocoa-Trigger.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactiveCocoa-Trigger.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReactiveCocoa-Trigger/Pods-ReactiveCocoa-Trigger.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,6 +69,7 @@
 				6907F2D31DBFDD970051295D /* Assets.xcassets */,
 				6907F2D51DBFDD970051295D /* LaunchScreen.storyboard */,
 				6907F2D81DBFDD970051295D /* Info.plist */,
+				6907F2DE1DBFDF630051295D /* Test.txt */,
 			);
 			path = "ReactiveCocoa-Trigger";
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			files = (
 				6907F2D71DBFDD970051295D /* LaunchScreen.storyboard in Resources */,
 				6907F2D41DBFDD970051295D /* Assets.xcassets in Resources */,
+				6907F2DF1DBFDF630051295D /* Test.txt in Resources */,
 				6907F2D21DBFDD970051295D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
